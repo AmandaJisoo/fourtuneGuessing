@@ -1,13 +1,8 @@
 /*
- * Author: Melissa Hovik
- * CSE 154 Summer 2019
- * Lecture 6: Intro to JS
- *
+
+ *Used guildeline from CSE 154
  * CSS for basic styling of Mystery Box page.
- */
-/*  
-$color-1: #ffe1d1;
-$color-2: #ffdbca; */
+ */ 
 
 body {
   /* one way to get full height of flex column to get footer at bottom */

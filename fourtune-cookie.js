@@ -28,7 +28,7 @@ function openCookie() {
 
 function alertFunction() {
     let myVar = setTimeout(alertFunc, 1000);
-  }
+}
   
   function alertFunc() {
     alert("Have a nice day");
