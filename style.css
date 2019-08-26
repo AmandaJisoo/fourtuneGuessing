@@ -1,11 +1,5 @@
-/*
-
- *Used guildeline from CSE 154
- * CSS for basic styling of Mystery Box page.
- */ 
 
 body {
-  /* one way to get full height of flex column to get footer at bottom */
   font-family: Alegreya, serif;
   height: 100vh;
   display: flex;
@@ -25,12 +19,8 @@ img {
 
 #cookie {
     width: 300px;
-    h
 }
 
-/* buttons are inline, but we want it below the box image -
-   could make it block and center  using margin auto auto,
-   or make main a column-based flex parent */
 button {
     display: block;
     margin: 30px auto;
@@ -49,6 +39,5 @@ button {
 }
 
 footer {
-  /* background-color: #efefef; */
   height: 50px;
 }
